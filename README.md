@@ -10,9 +10,9 @@ Linear Regression is a fundamental technique in **Machine Learning** that models
 ## **Understanding Linear Regression**
 Linear Regression follows the equation:
 
-\[
-y = m \cdot x + b
-\]
+
+y = m.x + b
+
 
 Where:
 - \( y \) = **Dependent variable** (PM2.5_tomorrow in this case)
