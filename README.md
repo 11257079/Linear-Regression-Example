@@ -1,4 +1,4 @@
-# Linear Regression Example with PM2.5 Data
+# Linear Regression Example
 
 ## **Overview**
 This repository contains an example implementation of **Linear Regression** using **Python** and the `statsmodels` library. The dataset used in this example contains PM2.5 (Particulate Matter) values, which are used to predict the **PM2.5 levels of the next day** (`PM2.5_tomorrow`). 
